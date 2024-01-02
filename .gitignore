@@ -1,0 +1,7 @@
+*.pyc
+*.log
+*.pid
+__pycache__
+*.env
+*.local_env
+google_authentication_venv
